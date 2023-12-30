@@ -2,7 +2,7 @@
 
 Team Mecha06
 -Andrew Whitacre
--Drake Smalls
+-Drake Small
  
 
 # Introduction
